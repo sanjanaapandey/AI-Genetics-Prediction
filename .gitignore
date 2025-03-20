@@ -1,0 +1,16 @@
+# 🚀 Frontend (React)
+node_modules/
+
+# 🐍 Backend (Flask/Django)
+__pycache__/
+venv/
+env/
+
+# 🧠 AI Model
+*.h5
+*.pkl
+
+# 📜 Misc
+.DS_Store
+.vscode/
+
